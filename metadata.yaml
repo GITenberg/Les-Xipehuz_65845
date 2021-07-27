@@ -1,5 +1,8 @@
 _repo: Les-Xipehuz_65845
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   authors:
   - agent_name: Boex, Séraphin Justin François
@@ -22,6 +25,8 @@ creator:
     - https://en.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
     - https://fr.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/65845#Les-Xipehuz
 gutenberg_issued: '2021-07-15'
 gutenberg_type: Text
 identifiers:
