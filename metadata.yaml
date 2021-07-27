@@ -1,0 +1,36 @@
+_repo: Les-Xipehuz_65845
+_version: 0.0.1
+creator:
+  authors:
+  - agent_name: Boex, Séraphin Justin François
+    gutenberg_agent_id: '53523'
+    url: http://www.gutenberg.org/2009/agents/53523
+  - agent_name: Rosny, J.-H., aîné
+    aliases:
+    - Boëx-Borel, J. H.
+    - Boëx, Joseph-Henri-Honoré
+    - Enacryos
+    - Boex, Joseph Henri Honoré
+    - aîné, J.-H. Rosny
+    - Rosny, J.-H., aine
+    - Boex, Joseph-Henri-Honore
+    birthdate: 1856
+    deathdate: 1940
+    gutenberg_agent_id: '32612'
+    url: http://www.gutenberg.org/2009/agents/32612
+    wikipedia:
+    - https://en.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
+    - https://fr.wikipedia.org/wiki/J.-H._Rosny_a%C3%AEn%C3%A9
+description: ''
+gutenberg_issued: '2021-07-15'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '65845'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Les Xipéhuz
+url: http://www.gutenberg.org/ebooks/65845
